@@ -2,7 +2,7 @@
 
 git clone https://github.com/Microsoft/vscode.git
 
-cd vsclone
+cd vscode
 
 yarn run watch
 
